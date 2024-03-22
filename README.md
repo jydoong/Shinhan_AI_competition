@@ -40,3 +40,7 @@
 
 ### 보고서 PPT 자료
 [신한AI_Hear Your Shinhan.pdf](https://github.com/jydoong/Shinhan_AI_competition/files/14718265/AI_Hear.Your.Shinhan.pdf)
+
+### 🎬 시각장애인 음성지원서비스 시연 영상 🎬
+https://youtu.be/6i1pTwx31tk
+
