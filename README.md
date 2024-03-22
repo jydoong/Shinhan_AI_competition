@@ -36,7 +36,7 @@
 <img width="551" alt="스크린샷 2024-03-22 오후 3 20 59" src="https://github.com/jydoong/Shinhan_AI_competition/assets/88875273/bee96d70-1064-434c-9a32-9748aa398e8a">
 
 ### 2. 주가차트 청각화
-<img width="715" alt="스크린샷 2024-03-22 오후 3 21 49" src="https://github.com/jydoong/Shinhan_AI_competition/assets/88875273/9f4e3d27-6c78-4844-9070-8bfaae66bb6e">
+<img width="900" alt="스크린샷 2024-03-22 오후 3 21 49" src="https://github.com/jydoong/Shinhan_AI_competition/assets/88875273/9f4e3d27-6c78-4844-9070-8bfaae66bb6e">
 
 ### 보고서 PPT 자료
 [신한AI_Hear Your Shinhan.pdf](https://github.com/jydoong/Shinhan_AI_competition/files/14718265/AI_Hear.Your.Shinhan.pdf)
