@@ -1,4 +1,4 @@
-<img width="717" alt="스크린샷 2024-03-22 오후 3 21 37" src="https://github.com/jydoong/Shinhan_AI_competition/assets/88875273/07c55c9b-0ac7-40ff-8e3a-e2f3008482d6"># Shinhan_AI_competition
+# Shinhan_AI_competition
 신한 AI 아이디어 경진대회(상위 16%)
 
 ## 대회 개요
